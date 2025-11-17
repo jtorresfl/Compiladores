@@ -1,0 +1,4 @@
+Primero mover los test de la carpeta test 
+
+./compilador teste1.cpp
+./compilador teste2.cpp
